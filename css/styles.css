@@ -21,3 +21,9 @@ body{
 .cabecera p{
     background-color: blue;
 }
+footer{
+    background-color: black;
+}
+.footer-text{
+    color: white;
+}
