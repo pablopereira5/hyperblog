@@ -1,10 +1,16 @@
 body{
-    background-color: rgb(54, 160, 133);
+    background: rgb(126,249,231);
+    background: linear-gradient(90deg, rgba(126,249,231,1) 0%, rgba(0,255,230,1) 0%, rgba(33,223,195,1) 28%, rgba(8,248,173,1) 80%, rgba(0,255,166,1) 100%);
     color: black;
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     text-align: center;
+}
+.logo-cabecera{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .post{
     text-align: left;
